@@ -1,0 +1,67 @@
+﻿@{
+    ViewData["Title"] = "Register Page";
+}
+<link rel="stylesheet" href="~/css/register.css" />
+<div class="conta">
+    <div class="register-photo">
+        <img src="~/icon/Register.png" alt="Register Illustration">
+    </div>
+    <div class="register-container">
+        <h1>Sign up</h1>
+        <p>Let’s get you all set up so you can access your personal account.</p>
+        <form>
+            <div class="input-group-four">
+                <div>
+                    <div class="input-group-detail">
+                        <label for="first-name">First Name</label>
+                        <input type="text" id="first-name" name="first-name" placeholder="john">
+                    </div>
+                    <div class="input-group-detail">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email" placeholder="john.doe@gmail.com">
+                    </div>
+                </div>
+                <div>
+                    <div class="input-group-detail">
+                        <label for="last-name">Last Name</label>
+                        <input type="text" id="last-name" name="last-name" placeholder="doe">
+                    </div>
+                    <div class="input-group-detail">
+                        <label for="phone">Phone Number</label>
+                        <input type="tel" id="phone" name="phone" placeholder="+505 453 234 32">
+                    </div>
+                </div>
+            </div>
+            <div class="input-group">
+                <label for="password">Password</label>
+                <input type="password" id="password" name="password" placeholder="**********">
+            </div>
+            <div class="input-group">
+                <label for="confirm-password">Confirm Password</label>
+                <input type="password" id="confirm-password" name="confirm-password" placeholder="**********">
+            </div>
+            <div class="actions">
+                <label>
+                    <input type="checkbox" name="agree"> I agree to all the
+                </label>
+                <a href="#" class="terms">Terms</a>
+                and
+                <a href="#" class="privacy-policies">Privacy Policies</a>
+            </div>
+            <button type="submit" class="register-btn">Create account</button>
+            <p>Already have an account? <a href="#">Login</a></p>
+        </form>
+        <div class="social-register">
+            <div class="container">
+                <div class="line"></div>
+                <div class="text">Or Sign up with</div>
+                <div class="line"></div>
+            </div>
+            <div class="social-buttons">
+                <button class="facebook"><img src="~/icon/facebook.png"></button>
+                <button class="google"><img src="~/icon/google.png"></button>
+                <button class="apple"><img src="~/icon/apple.png"></button>
+            </div>
+        </div>
+    </div>
+</div>
