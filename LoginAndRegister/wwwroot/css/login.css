@@ -1,7 +1,7 @@
 ﻿* {
     margin: 0;
     padding: 0;
-    box-sizing: border-box; 
+    box-sizing: border-box;
 }
 
 body, html {
@@ -30,19 +30,6 @@ body, html {
     background-color: #fff;
     position: relative;
 }
-
-.login-photo {
-    width: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #ffffff;
-}
-
-    .login-photo img {
-        width: auto;
-        max-height: 80%;
-    }
 
 .login {
     display: flex;
@@ -84,6 +71,11 @@ body, html {
         padding: 10px;
         border: 1px solid #ccc;
         border-radius: 5px;
+    }
+
+    .input-group span {
+        width: 30px;
+        color: red;
     }
 
 .actions {
@@ -164,4 +156,20 @@ body, html {
     .social-buttons img {
         width: 25px;
         height: auto;
+    }
+
+.login-photo {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    margin: 20px
+}
+
+    .login-photo img {
+        max-width: 100%;
+        height: 600px;
+        width: 400px;
+        max-height: 80%;
     }
