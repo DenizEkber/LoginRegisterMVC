@@ -23,7 +23,7 @@ namespace LoginAndRegister.Validation.FluentValidator
                 .NotEmpty().WithMessage("Confirm password is required.")
                 .Equal(x => x.Password).WithMessage("Passwords do not match.");
             RuleFor(x => x.Agree)
-                .Equal(false).WithMessage("You must agree to the terms and privacy policies.");
+                .Equal(true).WithMessage("You must agree to the terms and privacy policies.");
         }
     }
 }

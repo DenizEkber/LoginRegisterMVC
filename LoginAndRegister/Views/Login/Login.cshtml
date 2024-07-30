@@ -31,8 +31,8 @@
                         </label>
                         <a href="#" class="forgot-password">Forgot Password</a>
                     </div>
-                    <button type="submit" asp-action="Login" asp-controller="Home" class="login-btn">Login</button>
-                    <p>Don't have an account? <a href="#">Sign up</a></p>
+                    <button type="submit" asp-action="Login" asp-controller="Login" class="login-btn">Login</button>
+                    <p>Don't have an account? <a href="#" onclick="redirectToRegister(event)">Sign up</a></p>
                 </form>
                 <div class="social-login">
                     <div class="box">
@@ -53,4 +53,12 @@
         <img src="~/icon/Login.png" alt="Login Illustration">
     </div>
 </div>
+
+
+<script>
+    function redirectToRegister(event) {
+        event.preventDefault(); // Linkin varsayılan davranışını engeller
+        window.location.href = "/Register/Register"; // Yönlendirme işlemi
+    }
+</script>
 

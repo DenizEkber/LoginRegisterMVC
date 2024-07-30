@@ -15,46 +15,47 @@
                 <div>
                     <div class="input-group-detail">
                         <label for="first-name">First Name</label>
-                        <input type="text" id="first-name" name=FirstName placeholder="john">
-                        <span asp-validation-for=FirstName> </span>
+                        <input type="text" id="first-name" name="FirstName" placeholder="john">
+                        <span asp-validation-for="FirstName"></span>
                     </div>
                     <div class="input-group-detail">
                         <label for="email">Email</label>
-                        <input type="email" id="email" name=Email placeholder="john.doe@gmail.com">
-                        <span asp-validation-for=Email> </span>
+                        <input type="email" id="email" name="Email" placeholder="john.doe@gmail.com">
+                        <span asp-validation-for="Email"></span>
                     </div>
                 </div>
                 <div>
                     <div class="input-group-detail">
                         <label for="last-name">Last Name</label>
-                        <input type="text" id="last-name" name=LastName placeholder="doe">
-                        <span asp-validation-for=LastName> </span>
+                        <input type="text" id="last-name" name="LastName" placeholder="doe">
+                        <span asp-validation-for="LastName"></span>
                     </div>
                     <div class="input-group-detail">
                         <label for="phone">Phone Number</label>
-                        <input type="tel" id="phone" name=Phone placeholder="+505 453 234 32">
-                        <span asp-validation-for=Phone> </span>
+                        <input type="tel" id="phone" name="Phone" placeholder="+505 453 234 32">
+                        <span asp-validation-for="Phone"></span>
                     </div>
                 </div>
             </div>
             <div class="input-group">
                 <label for="password">Password</label>
-                <input type="password" id="password" name=Password placeholder="**********">
-                <span asp-validation-for=Password> </span>
+                <input type="password" id="password" name="Password" placeholder="**********">
+                <span asp-validation-for="Password"></span>
             </div>
             <div class="input-group">
                 <label for="confirm-password">Confirm Password</label>
-                <input type="password" id="confirm-password" name=ConfirmPassword placeholder="**********">
-                <span asp-validation-for=ConfirmPassword> </span>
+                <input type="password" id="confirm-password" name="ConfirmPassword" placeholder="**********">
+                <span asp-validation-for="ConfirmPassword"></span>
             </div>
             <div class="actions">
                 <label>
-                    <input type="checkbox" name=Agree> I agree to all the
+                    <input type="checkbox" name="Agree" value="true"> I agree to all the
                 </label>
-                <span asp-validation-for=Agree > </span>
+                <span asp-validation-for="Agree"></span>
                 <a href="#" class="terms">Terms</a>
                 and
                 <a href="#" class="privacy-policies">Privacy Policies</a>
+                <input type="hidden" name="Agree" value="false" />
             </div>
             <button type="submit" asp-action="Register" asp-controller="Home" class="register-btn">Create account</button>
             <p>Already have an account? <a href="#">Login</a></p>
