@@ -7,8 +7,8 @@ namespace LoginAndRegister.Helper
     {
         private const string Host = "smtp.gmail.com";
         private const int Port = 587;
-        private const string Username = "olabilirbilmem1@gmail.com";
-        private const string Password = "ffblhtpbajyjabll";
+        private const string Username = "YourEmail";//Change this code
+        private const string Password = "YourAppCode";// Change this code
 
 
         private static MessageSender instance;
