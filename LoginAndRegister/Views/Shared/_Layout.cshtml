@@ -7,15 +7,21 @@
 <body>
     <header>
         <nav>
-            
             <div class="logo">
                 <img src="~/icon/logo.png" alt="Logo">
-                <span> Your Logo</span>
+                <span>Your Logo</span>
             </div>
         </nav>
     </header>
     <div class="container">
         @RenderBody()
     </div>
+
+    @if (User.Identity.IsAuthenticated && ViewData["ShowLogout"] != null && (bool)ViewData["ShowLogout"])
+    {
+        <a href="/Dashboard/Logout" class="logout-button">Logout</a>
+    }
+
+    @RenderSection("Scripts", required: false)
 </body>
 </html>

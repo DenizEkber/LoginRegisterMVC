@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoginAndRegister")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef9fa76306d7aa4ae28137ff49aa683b9efd8d4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be3627fb0134e96f6e5112333504378c14a9eddb")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoginAndRegister")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoginAndRegister")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

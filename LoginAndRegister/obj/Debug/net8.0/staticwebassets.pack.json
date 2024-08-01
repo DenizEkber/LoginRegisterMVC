@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\LoginAndRegister.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\css\\dashboard.css",
+      "PackagePath": "staticwebassets\\css\\dashboard.css"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
@@ -295,6 +299,10 @@
     {
       "Id": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\photo\\profile.jpg",
+      "PackagePath": "staticwebassets\\photo\\profile.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LoginAndRegister.Microsoft.AspNetCore.StaticWebAssets.props",

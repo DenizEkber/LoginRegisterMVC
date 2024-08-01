@@ -25,11 +25,11 @@ namespace LoginAndRegister.Controllers
         [HttpGet]
         public ActionResult Login()
         {
-            /*if (User.Identity.IsAuthenticated)
+            if (User.Identity.IsAuthenticated)
             {
                 
-                return RedirectToAction("Index", "Home");
-            }*/
+                return RedirectToAction("Dashboard", "Dashboard");
+            }
             return View();
         }
 
@@ -44,7 +44,7 @@ namespace LoginAndRegister.Controllers
                     var user = ctx.Users.SingleOrDefault(u => u.Email == model.Email);
                     if (user != null && convertHash.VerifyPassword(model.Password, user.Password, user.PasswordSalt))
                     {
-                        /*var claims = new List<Claim>
+                        var claims = new List<Claim>
                         {
                             new Claim(ClaimTypes.Email, model.Email)
                         };
@@ -56,9 +56,9 @@ namespace LoginAndRegister.Controllers
                         };
 
                         await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme,
-                            new ClaimsPrincipal(claimsIdentity), authProperties);*/
+                            new ClaimsPrincipal(claimsIdentity), authProperties);
 
-                        return RedirectToAction("Index", "Home");
+                        return RedirectToAction("Dashboard", "Dashboard");
                     }
                     else
                     {

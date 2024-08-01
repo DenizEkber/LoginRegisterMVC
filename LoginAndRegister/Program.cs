@@ -18,14 +18,14 @@ builder.Services.Configure<CookiePolicyOptions>(options =>
     options.MinimumSameSitePolicy = SameSiteMode.None;
 });
 
-/*builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
     {
         options.Cookie.HttpOnly = true;
         options.ExpireTimeSpan = TimeSpan.FromDays(14); // Çerezin süresi
         options.LoginPath = "/Login/Login"; // Giri? sayfas? yolu
         options.AccessDeniedPath = "/Home/AccessDenied";
-    });*/
+    });
 
 var app = builder.Build();
 
@@ -40,7 +40,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();
 
-//app.UseAuthentication(); // Authentication middleware
+app.UseAuthentication(); // Authentication middleware
 app.UseAuthorization();
 
 app.MapControllerRoute(

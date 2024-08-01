@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Z94sJ/rbhvZM9x1oF8MeCwNMFVmPxzXui8Lfu7iZnbY=",
+  "Hash": "CUHb7BrtVe5boqrm6huHdHwPpfoqZj+AiGMbx4hIt+0=",
   "Source": "LoginAndRegister",
   "BasePath": "_content/LoginAndRegister",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LoginAndRegister.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\css\\dashboard.css",
+      "SourceId": "LoginAndRegister",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\",
+      "BasePath": "_content/LoginAndRegister",
+      "RelativePath": "css/dashboard.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\dashboard.css"
     },
     {
       "Identity": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\css\\login.css",
@@ -1440,6 +1459,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\photo\\profile.jpg",
+      "SourceId": "LoginAndRegister",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\",
+      "BasePath": "_content/LoginAndRegister",
+      "RelativePath": "photo/profile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photo\\profile.jpg"
     }
   ]
 }
