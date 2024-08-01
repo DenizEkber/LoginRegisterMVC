@@ -3,6 +3,7 @@
 *@
 @{
 }
+@model VerifyCodeViewModel
 <link rel="stylesheet" href="~/css/verifyCode.css">
 
 <div class="conta">
@@ -12,13 +13,14 @@
                 <a class="back-login" href="#">&lt; Back to login</a>
                 <h1>Verify Code</h1>
                 <p>An authentication code has been sent to your email.</p>
-                <form>
+                <form method="post" >
                     <div class="input-group">
                         <label for="verifyCode">Enter Code</label>
-                        <input type="text" id="verifyCode" name="verifyCode" placeholder="7789BM6X">
+                        <input type="text" id="verifyCode" name="EnteredCode" placeholder="7789BM6X">
+                        <span asp-validation-for="EnteredCode"></span>
                     </div>
                     <p>Didn’t receive a code? <a href="#">Resend</a></p>
-                    <button type="submit" class="verify-btn">Verify</button>
+                    <button asp-controller="VerifyCode"  asp-action="VerifyCode" type="submit" class="verify-btn">Verify</button>
                 </form>
             </div>
         </div>
@@ -27,5 +29,11 @@
         <img src="~/icon/Verify.png" alt="Verify Illustration">
     </div>
 </div>
+
+<script>
+    function=() => {
+
+    }
+</script>
 
 

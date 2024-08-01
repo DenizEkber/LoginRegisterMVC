@@ -7,143 +7,24 @@
       "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\controllers\\passwordresetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\controllers\\passwordresetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\controllers\\setpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\controllers\\setpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD85977-D8EC-4690-B1F0-6FFFA8C04993}|DatabaseEntity\\DatabaseEntity.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\databaseentity\\codefirst\\context\\sitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD85977-D8EC-4690-B1F0-6FFFA8C04993}|DatabaseEntity\\DatabaseEntity.csproj|solutionrelative:databaseentity\\codefirst\\context\\sitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\validation\\fluentvalidator\\loginviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\validation\\fluentvalidator\\loginviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\validation\\fluentvalidator\\registerviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\validation\\fluentvalidator\\registerviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\AppData\\Local\\SourceServer\\726b8fd6d63e27e6a4af609cc5c2a9d035406530bd444749aef1ed0c6325d86c\\LoginAndRegister\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD85977-D8EC-4690-B1F0-6FFFA8C04993}|DatabaseEntity\\DatabaseEntity.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\databaseentity\\codefirst\\configuration\\userdata\\usersconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD85977-D8EC-4690-B1F0-6FFFA8C04993}|DatabaseEntity\\DatabaseEntity.csproj|solutionrelative:databaseentity\\codefirst\\configuration\\userdata\\usersconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD85977-D8EC-4690-B1F0-6FFFA8C04993}|DatabaseEntity\\DatabaseEntity.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\databaseentity\\codefirst\\configuration\\userdata\\userdetailconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD85977-D8EC-4690-B1F0-6FFFA8C04993}|DatabaseEntity\\DatabaseEntity.csproj|solutionrelative:databaseentity\\codefirst\\configuration\\userdata\\userdetailconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD85977-D8EC-4690-B1F0-6FFFA8C04993}|DatabaseEntity\\DatabaseEntity.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\databaseentity\\codefirst\\entity\\userdata\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD85977-D8EC-4690-B1F0-6FFFA8C04993}|DatabaseEntity\\DatabaseEntity.csproj|solutionrelative:databaseentity\\codefirst\\entity\\userdata\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD85977-D8EC-4690-B1F0-6FFFA8C04993}|DatabaseEntity\\DatabaseEntity.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\databaseentity\\codefirst\\entity\\userdata\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD85977-D8EC-4690-B1F0-6FFFA8C04993}|DatabaseEntity\\DatabaseEntity.csproj|solutionrelative:databaseentity\\codefirst\\entity\\userdata\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD85977-D8EC-4690-B1F0-6FFFA8C04993}|DatabaseEntity\\DatabaseEntity.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\databaseentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD85977-D8EC-4690-B1F0-6FFFA8C04993}|DatabaseEntity\\DatabaseEntity.csproj|solutionrelative:databaseentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD85977-D8EC-4690-B1F0-6FFFA8C04993}|DatabaseEntity\\DatabaseEntity.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\databaseentity\\databaseentity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6FD85977-D8EC-4690-B1F0-6FFFA8C04993}|DatabaseEntity\\DatabaseEntity.csproj|solutionrelative:databaseentity\\databaseentity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\loginandregister.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\loginandregister.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\wwwroot\\css\\verifycode.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\wwwroot\\css\\verifycode.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\wwwroot\\css\\setpassword.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\wwwroot\\css\\setpassword.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\wwwroot\\css\\passwordreset.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\wwwroot\\css\\passwordreset.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\views\\home\\passwordreset.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\views\\home\\passwordreset.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\views\\home\\setpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\views\\home\\setpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\views\\home\\verifycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\views\\home\\verifycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\controllers\\verifycodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\controllers\\verifycodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -153,32 +34,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 552,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "LoginAndRegister\\Views\\Shared\\Error.cshtml",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LoginAndRegister\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LoginAndRegister\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T15:04:44.671Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:14:56.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "LoginAndRegister\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T15:02:24.699Z",
+              "DocumentIndex": 5,
+              "Title": "VerifyCodeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Controllers\\VerifyCodeController.cs",
+              "RelativeDocumentMoniker": "LoginAndRegister\\Controllers\\VerifyCodeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Controllers\\VerifyCodeController.cs",
+              "RelativeToolTip": "LoginAndRegister\\Controllers\\VerifyCodeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:11:40.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SetPasswordController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Controllers\\SetPasswordController.cs",
+              "RelativeDocumentMoniker": "LoginAndRegister\\Controllers\\SetPasswordController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Controllers\\SetPasswordController.cs",
+              "RelativeToolTip": "LoginAndRegister\\Controllers\\SetPasswordController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:11:23.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "LoginAndRegister\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "LoginAndRegister\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:11:01.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordResetController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Controllers\\PasswordResetController.cs",
+              "RelativeDocumentMoniker": "LoginAndRegister\\Controllers\\PasswordResetController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Controllers\\PasswordResetController.cs",
+              "RelativeToolTip": "LoginAndRegister\\Controllers\\PasswordResetController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:08:33.007Z",
               "EditorCaption": ""
             },
             {
@@ -189,419 +109,10 @@
               "RelativeDocumentMoniker": "LoginAndRegister\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Controllers\\LoginController.cs",
               "RelativeToolTip": "LoginAndRegister\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAYwBIAAAAwAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwCYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T16:34:40.048Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Login\\Login.cshtml",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Views\\Login\\Login.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Login\\Login.cshtml",
-              "RelativeToolTip": "LoginAndRegister\\Views\\Login\\Login.cshtml",
-              "ViewState": "AQIAACkAAAAAAAAAAAAkwDsAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T15:39:28.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Register\\Register.cshtml",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Views\\Register\\Register.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Register\\Register.cshtml",
-              "RelativeToolTip": "LoginAndRegister\\Views\\Register\\Register.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADIAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-28T06:07:08.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Models\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Models\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Models\\RegisterViewModel.cs",
-              "RelativeToolTip": "LoginAndRegister\\Models\\RegisterViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T13:55:54.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Controllers\\RegisterController.cs",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Controllers\\RegisterController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Controllers\\RegisterController.cs",
-              "RelativeToolTip": "LoginAndRegister\\Controllers\\RegisterController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAYwD0AAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T16:19:14.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "LoginAndRegister\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T15:04:38.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Program.cs",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Program.cs",
-              "RelativeToolTip": "LoginAndRegister\\Program.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAiwDoAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T15:45:49.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Models\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "LoginAndRegister\\Models\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T09:20:29.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LoginViewModelValidator.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Validation\\FluentValidator\\LoginViewModelValidator.cs",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Validation\\FluentValidator\\LoginViewModelValidator.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Validation\\FluentValidator\\LoginViewModelValidator.cs",
-              "RelativeToolTip": "LoginAndRegister\\Validation\\FluentValidator\\LoginViewModelValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T10:32:41.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SiteContext.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\DatabaseEntity\\CodeFirst\\Context\\SiteContext.cs",
-              "RelativeDocumentMoniker": "DatabaseEntity\\CodeFirst\\Context\\SiteContext.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\DatabaseEntity\\CodeFirst\\Context\\SiteContext.cs",
-              "RelativeToolTip": "DatabaseEntity\\CodeFirst\\Context\\SiteContext.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAiwA0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T11:38:45.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "LoginAndRegister\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T15:05:01.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "LoginAndRegister\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowBUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T15:44:28.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "register.css",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\css\\register.css",
-              "RelativeDocumentMoniker": "LoginAndRegister\\wwwroot\\css\\register.css",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\css\\register.css",
-              "RelativeToolTip": "LoginAndRegister\\wwwroot\\css\\register.css",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAG4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-28T06:10:09.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RegisterViewModelValidator.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Validation\\FluentValidator\\RegisterViewModelValidator.cs",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Validation\\FluentValidator\\RegisterViewModelValidator.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Validation\\FluentValidator\\RegisterViewModelValidator.cs",
-              "RelativeToolTip": "LoginAndRegister\\Validation\\FluentValidator\\RegisterViewModelValidator.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAwwB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T12:06:26.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\AppData\\Local\\SourceServer\\726b8fd6d63e27e6a4af609cc5c2a9d035406530bd444749aef1ed0c6325d86c\\LoginAndRegister\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\726b8fd6d63e27e6a4af609cc5c2a9d035406530bd444749aef1ed0c6325d86c\\LoginAndRegister\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\AppData\\Local\\SourceServer\\726b8fd6d63e27e6a4af609cc5c2a9d035406530bd444749aef1ed0c6325d86c\\LoginAndRegister\\Controllers\\HomeController.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\726b8fd6d63e27e6a4af609cc5c2a9d035406530bd444749aef1ed0c6325d86c\\LoginAndRegister\\Controllers\\HomeController.cs [Read Only]",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T13:44:04.502Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UserDetailConfigurator.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\DatabaseEntity\\CodeFirst\\Configuration\\UserData\\UserDetailConfigurator.cs",
-              "RelativeDocumentMoniker": "DatabaseEntity\\CodeFirst\\Configuration\\UserData\\UserDetailConfigurator.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\DatabaseEntity\\CodeFirst\\Configuration\\UserData\\UserDetailConfigurator.cs",
-              "RelativeToolTip": "DatabaseEntity\\CodeFirst\\Configuration\\UserData\\UserDetailConfigurator.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T11:33:01.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\DatabaseEntity\\Program.cs",
-              "RelativeDocumentMoniker": "DatabaseEntity\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\DatabaseEntity\\Program.cs",
-              "RelativeToolTip": "DatabaseEntity\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T11:17:40.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UsersConfigurator.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\DatabaseEntity\\CodeFirst\\Configuration\\UserData\\UsersConfigurator.cs",
-              "RelativeDocumentMoniker": "DatabaseEntity\\CodeFirst\\Configuration\\UserData\\UsersConfigurator.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\DatabaseEntity\\CodeFirst\\Configuration\\UserData\\UsersConfigurator.cs",
-              "RelativeToolTip": "DatabaseEntity\\CodeFirst\\Configuration\\UserData\\UsersConfigurator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T11:26:17.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UserDetail.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\DatabaseEntity\\CodeFirst\\Entity\\UserData\\UserDetail.cs",
-              "RelativeDocumentMoniker": "DatabaseEntity\\CodeFirst\\Entity\\UserData\\UserDetail.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\DatabaseEntity\\CodeFirst\\Entity\\UserData\\UserDetail.cs",
-              "RelativeToolTip": "DatabaseEntity\\CodeFirst\\Entity\\UserData\\UserDetail.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T13:23:26.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\DatabaseEntity\\CodeFirst\\Entity\\UserData\\Users.cs",
-              "RelativeDocumentMoniker": "DatabaseEntity\\CodeFirst\\Entity\\UserData\\Users.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\DatabaseEntity\\CodeFirst\\Entity\\UserData\\Users.cs",
-              "RelativeToolTip": "DatabaseEntity\\CodeFirst\\Entity\\UserData\\Users.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T13:23:31.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DatabaseEntity.csproj",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\DatabaseEntity\\DatabaseEntity.csproj",
-              "RelativeDocumentMoniker": "DatabaseEntity\\DatabaseEntity.csproj",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\DatabaseEntity\\DatabaseEntity.csproj",
-              "RelativeToolTip": "DatabaseEntity\\DatabaseEntity.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-29T11:26:40.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "LoginAndRegister\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAgwD0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T09:21:46.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "LoginAndRegister.csproj",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\LoginAndRegister.csproj",
-              "RelativeDocumentMoniker": "LoginAndRegister\\LoginAndRegister.csproj",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\LoginAndRegister.csproj",
-              "RelativeToolTip": "LoginAndRegister\\LoginAndRegister.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-29T10:32:40.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "login.css",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\css\\login.css",
-              "RelativeDocumentMoniker": "LoginAndRegister\\wwwroot\\css\\login.css",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\css\\login.css",
-              "RelativeToolTip": "LoginAndRegister\\wwwroot\\css\\login.css",
-              "ViewState": "AQIAADQAAAAAAAAAAAAAAEwAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-29T10:54:00.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "LoginAndRegister\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "LoginAndRegister\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwCAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-27T15:11:20.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "LoginAndRegister\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T15:04:46.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "PasswordReset.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Home\\PasswordReset.cshtml",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Views\\Home\\PasswordReset.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Home\\PasswordReset.cshtml",
-              "RelativeToolTip": "LoginAndRegister\\Views\\Home\\PasswordReset.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-28T07:36:01.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "verifyCode.css",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\css\\verifyCode.css",
-              "RelativeDocumentMoniker": "LoginAndRegister\\wwwroot\\css\\verifyCode.css",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\css\\verifyCode.css",
-              "RelativeToolTip": "LoginAndRegister\\wwwroot\\css\\verifyCode.css",
-              "ViewState": "AQIAAB4AAAAAAAAAAIBJwAkAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-28T08:50:24.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "passwordReset.css",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\css\\passwordReset.css",
-              "RelativeDocumentMoniker": "LoginAndRegister\\wwwroot\\css\\passwordReset.css",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\css\\passwordReset.css",
-              "RelativeToolTip": "LoginAndRegister\\wwwroot\\css\\passwordReset.css",
-              "ViewState": "AQIAAIsAAAAAAAAAAIBJwAcAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-28T07:57:50.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "setPassword.css",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\css\\setPassword.css",
-              "RelativeDocumentMoniker": "LoginAndRegister\\wwwroot\\css\\setPassword.css",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\css\\setPassword.css",
-              "RelativeToolTip": "LoginAndRegister\\wwwroot\\css\\setPassword.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-28T08:46:19.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "LoginAndRegister\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T15:04:53.004Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "SetPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Home\\SetPassword.cshtml",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Views\\Home\\SetPassword.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Home\\SetPassword.cshtml",
-              "RelativeToolTip": "LoginAndRegister\\Views\\Home\\SetPassword.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAIBJwAoAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-28T08:40:03.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "VerifyCode.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Home\\VerifyCode.cshtml",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Views\\Home\\VerifyCode.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Home\\VerifyCode.cshtml",
-              "RelativeToolTip": "LoginAndRegister\\Views\\Home\\VerifyCode.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-28T08:40:32.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "LoginAndRegister\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "LoginAndRegister\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T15:04:40.594Z"
             }
           ]
         }

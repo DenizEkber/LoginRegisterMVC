@@ -22,28 +22,24 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/C\#/MVC/LoginAndRegister/LoginAndRegister/Views/Home/PasswordReset.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXNzd29yZFJlc2V0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/LENOVO/Documents/C\#/MVC/LoginAndRegister/LoginAndRegister/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/Documents/C\#/MVC/LoginAndRegister/LoginAndRegister/Views/Home/SetPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXRQYXNzd29yZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/LENOVO/Documents/C\#/MVC/LoginAndRegister/LoginAndRegister/Views/Home/VerifyCode.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZXJpZnlDb2RlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/LENOVO/Documents/C\#/MVC/LoginAndRegister/LoginAndRegister/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/LENOVO/Documents/C\#/MVC/LoginAndRegister/LoginAndRegister/Views/PasswordReset/PasswordReset.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc3dvcmRSZXNldFxQYXNzd29yZFJlc2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/LENOVO/Documents/C\#/MVC/LoginAndRegister/LoginAndRegister/Views/Register/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/Documents/C\#/MVC/LoginAndRegister/LoginAndRegister/Views/SetPassword/SetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0UGFzc3dvcmRcU2V0UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/LENOVO/Documents/C\#/MVC/LoginAndRegister/LoginAndRegister/Views/Shared/Error.cshtml]
@@ -52,6 +48,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/LENOVO/Documents/C\#/MVC/LoginAndRegister/LoginAndRegister/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/Documents/C\#/MVC/LoginAndRegister/LoginAndRegister/Views/VerifyCode/VerifyCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVyaWZ5Q29kZVxWZXJpZnlDb2RlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/LENOVO/Documents/C\#/MVC/LoginAndRegister/LoginAndRegister/Views/_ViewImports.cshtml]

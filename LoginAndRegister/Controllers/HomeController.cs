@@ -16,20 +16,6 @@ namespace LoginAndRegister.Controllers
             _logger = logger;
         }
 
-        public IActionResult SetPassword()
-        {
-            return View();
-        }
-        public IActionResult PasswordReset()
-        {
-            return View();
-        }
-
-        public IActionResult VerifyCode()
-        {
-            return View();
-        }
-
         public IActionResult Index()
         {
             return View();

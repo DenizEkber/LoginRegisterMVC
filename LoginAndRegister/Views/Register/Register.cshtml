@@ -51,14 +51,14 @@
                 <label>
                     <input type="checkbox" name="Agree" value="true"> I agree to all the
                 </label>
-                <span asp-validation-for="Agree"></span>
                 <a href="#" class="terms">Terms</a>
                 and
                 <a href="#" class="privacy-policies">Privacy Policies</a>
                 <input type="hidden" name="Agree" value="false" />
+                <span asp-validation-for="Agree"></span>
             </div>
-            <button type="submit" asp-action="Register" asp-controller="Home" class="register-btn">Create account</button>
-            <p>Already have an account? <a href="#">Login</a></p>
+            <button type="submit" asp-action="Register" asp-controller="Register" class="register-btn">Create account</button>
+            <p>Already have an account? <a href="#" onclick="redirectToLogin(event)">Login</a></p>
         </form>
         <div class="social-register">
             <div class="container">
@@ -74,3 +74,11 @@
         </div>
     </div>
 </div>
+
+
+<script>
+    function redirectToLogin(event) {
+        event.preventDefault(); 
+        window.location.href = "/Login/Login"; 
+    }
+</script>

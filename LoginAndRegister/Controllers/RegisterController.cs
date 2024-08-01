@@ -3,11 +3,19 @@ using DatabaseEntity.CodeFirst.Entity.UserData;
 using LoginAndRegister.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Cryptography;
+using LoginAndRegister.Helper;
 
 namespace LoginAndRegister.Controllers
 {
     public class RegisterController : Controller
     {
+        ConvertHash convertHash; 
+
+        public RegisterController()
+        {
+            convertHash = new ConvertHash();
+        }
+
 
         [HttpGet]
         public ActionResult Register()
@@ -33,7 +41,7 @@ namespace LoginAndRegister.Controllers
                         }
                         else
                         {
-                            (string passwordHash, string passwordSalt) = HashPassword(model.Password);
+                            (string passwordHash, string passwordSalt) = convertHash.HashPassword(model.Password);
                             var user = new Users
                             {
                                 Name = model.FirstName + model.LastName,
@@ -59,7 +67,7 @@ namespace LoginAndRegister.Controllers
                             ctx.Add(userDetail);
                             ctx.SaveChanges();
 
-                            return RedirectToAction("Index", "Home");
+                            return RedirectToAction("Login", "Login");
                         }
                     }
                 }
@@ -73,7 +81,7 @@ namespace LoginAndRegister.Controllers
 
             return View(model);
         }
-        private (string, string) HashPassword(string password)
+        /*private (string, string) HashPassword(string password)
         {
             using (var rng = new RNGCryptoServiceProvider())
             {
@@ -88,6 +96,6 @@ namespace LoginAndRegister.Controllers
                     return (hash, salt);
                 }
             }
-        }
+        }*/
     }
 }

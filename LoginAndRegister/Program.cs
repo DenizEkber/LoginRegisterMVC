@@ -6,10 +6,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews()
-       .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<LoginViewModelValidator>());
-
-
-
+       .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<LoginViewModelValidator>())
+       .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<PasswordResetViewModelValidator>())
+       .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<RegisterViewModelValidator>())
+       .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<SetPasswordViewModelValidator>())
+       .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<VerifyCodeViewModelValidator>());
 
 builder.Services.Configure<CookiePolicyOptions>(options =>
 {
@@ -17,23 +18,14 @@ builder.Services.Configure<CookiePolicyOptions>(options =>
     options.MinimumSameSitePolicy = SameSiteMode.None;
 });
 
-builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+/*builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
     {
         options.Cookie.HttpOnly = true;
         options.ExpireTimeSpan = TimeSpan.FromDays(14); // Çerezin süresi
         options.LoginPath = "/Login/Login"; // Giri? sayfas? yolu
         options.AccessDeniedPath = "/Home/AccessDenied";
-    });
-
-
-
-
-
-
-
-
-
+    });*/
 
 var app = builder.Build();
 
@@ -46,29 +38,24 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
 app.UseRouting();
 
-app.UseAuthentication(); // Authentication middleware
+//app.UseAuthentication(); // Authentication middleware
 app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Login}/{action=Login}/{id?}");
 
-/*app.MapControllerRoute(
+// Di?er route tan?mlamalar?n? gerekti?i gibi ekleyebilirsiniz
+/*
+app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Register}/{action=Register}/{id?}");
-*/
-/*app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");*/
-/*app.MapGet("/", context =>
-{
-    context.Response.Redirect("/Home/Login");
-    return Task.CompletedTask;
-});
-*/
 
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+*/
 
 app.Run();

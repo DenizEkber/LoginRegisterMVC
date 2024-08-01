@@ -14,7 +14,7 @@
             <div class="login-container">
                 <h1>Login</h1>
                 <p>Login to access your travelwise account</p>
-                <form method="post">
+                <form method="post" onsubmit="(e)=>e.preventDefault()">
                     <div class="input-group">
                         <label for="email">Email</label>
                         <input type="email" id="email" name=Email placeholder="john.doe@gmail.com">
@@ -29,10 +29,10 @@
                         <label>
                             <input type="checkbox" name="remember-me"> Remember me
                         </label>
-                        <a href="#" class="forgot-password">Forgot Password</a>
+                        <a href="#" onclick="redirectToPasswordReset()" class="forgot-password">Forgot Password</a>
                     </div>
                     <button type="submit" asp-action="Login" asp-controller="Login" class="login-btn">Login</button>
-                    <p>Don't have an account? <a href="#" onclick="redirectToRegister(event)">Sign up</a></p>
+                    <p>Don't have an account? <a href="#" onclick="redirectToRegister()">Sign up</a></p>
                 </form>
                 <div class="social-login">
                     <div class="box">
@@ -56,9 +56,14 @@
 
 
 <script>
-    function redirectToRegister(event) {
-        event.preventDefault(); // Linkin varsayılan davranışını engeller
-        window.location.href = "/Register/Register"; // Yönlendirme işlemi
+    function redirectToRegister() {
+        //event.preventDefault(); 
+        window.location.href = "/Register/Register"; 
+    }
+
+    function redirectToPasswordReset() {
+       // event.preventDefault(); 
+        window.location.href = "/PasswordReset/PasswordReset";
     }
 </script>
 
