@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|c:\\users\\lenovo\\documents\\c#\\mvc\\loginandregister\\loginandregister\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DCED31C-403F-4F1E-9EBA-464354FD2D3C}|LoginAndRegister\\LoginAndRegister.csproj|solutionrelative:loginandregister\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 552,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Register\\Register.cshtml",
               "RelativeDocumentMoniker": "LoginAndRegister\\Views\\Register\\Register.cshtml",
@@ -46,12 +46,11 @@
               "RelativeToolTip": "LoginAndRegister\\Views\\Register\\Register.cshtml",
               "ViewState": "AQIAACQAAAAAAAAAAAAAADgAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-02T07:28:33.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T07:28:33.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Login\\Login.cshtml",
               "RelativeDocumentMoniker": "LoginAndRegister\\Views\\Login\\Login.cshtml",
@@ -59,12 +58,11 @@
               "RelativeToolTip": "LoginAndRegister\\Views\\Login\\Login.cshtml",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-02T07:26:00.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T07:26:00.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "LoginAndRegister\\Controllers\\LoginController.cs",
@@ -77,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "LoginAndRegister\\Views\\Shared\\_Layout.cshtml",
@@ -85,12 +83,11 @@
               "RelativeToolTip": "LoginAndRegister\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-02T07:20:16.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T07:20:16.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "dashboard.css",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\wwwroot\\css\\dashboard.css",
               "RelativeDocumentMoniker": "LoginAndRegister\\wwwroot\\css\\dashboard.css",
@@ -98,18 +95,17 @@
               "RelativeToolTip": "LoginAndRegister\\wwwroot\\css\\dashboard.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-02T07:16:28.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T07:16:28.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Dashboard\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "LoginAndRegister\\Views\\Dashboard\\Dashboard.cshtml",
               "ToolTip": "C:\\Users\\LENOVO\\Documents\\C#\\MVC\\LoginAndRegister\\LoginAndRegister\\Views\\Dashboard\\Dashboard.cshtml",
               "RelativeToolTip": "LoginAndRegister\\Views\\Dashboard\\Dashboard.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABRAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-02T07:14:14.436Z",
               "EditorCaption": ""
