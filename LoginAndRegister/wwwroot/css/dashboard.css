@@ -1,4 +1,10 @@
-﻿.profile-section {
+﻿.conta{
+    display:flex;
+    flex-direction:column;
+}
+
+
+.profile-section {
     text-align: center;
     margin-top: 20px;
 }

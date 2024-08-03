@@ -6,30 +6,35 @@
 }
 
 <link rel="stylesheet" href="~/css/dashboard.css" />
-<h2>Welcome, @Model.Name!</h2>
 
-<div class="profile-section">
-    @if (Model.PhotoData != null && Model.PhotoData.Length > 0)
-    {
-        string base64String = Convert.ToBase64String(Model.PhotoData);
-        <img src="data:image/jpeg;base64,@base64String" alt="Profile Picture" class="profile-picture" id="profilePicture" />
-    }
-    else
-    {
-        <img src="~/photo/profile.jpg" alt="Default Profile Picture" class="profile-picture" id="profilePicture" />
-    }
-    <form action="/Dashboard/UploadProfilePicture" method="post" enctype="multipart/form-data" id="profileForm">
-        <input type="file" name="profilePicture" id="fileInput" style="display:none" />
-    </form>
+<div class="conta">
+    <div class="profile-section">
+        @if (Model.PhotoData != null && Model.PhotoData.Length > 0)
+        {
+            string base64String = Convert.ToBase64String(Model.PhotoData);
+            <img src="data:image/jpeg;base64,@base64String" alt="Profile Picture" class="profile-picture" id="profilePicture" />
+        }
+        else
+        {
+            <img src="~/photo/profile.jpg" alt="Default Profile Picture" class="profile-picture" id="profilePicture" />
+        }
+        <form action="/Dashboard/UploadProfilePicture" method="post" enctype="multipart/form-data" id="profileForm">
+            <input type="file" name="profilePicture" id="fileInput" style="display:none" />
+        </form>
+    </div>
+
+    <h2>Welcome, @Model.Name!</h2>
+
+    <div>
+        <p>
+            Username: @Model.Name <br />
+            Email: @Model.Email <br />
+            FirstName: @Model.FirstName <br />
+            LastName: @Model.LastName <br />
+            PhoneNumber: @Model.PhoneNumber
+        </p>
+    </div>
 </div>
-
-<p>
-    Username: @Model.Name <br />
-    Email: @Model.Email <br />
-    FirstName: @Model.FirstName <br />
-    LastName: @Model.LastName <br />
-    PhoneNumber: @Model.PhoneNumber
-</p>
 
 @section Scripts {
     <script>
